@@ -1,0 +1,1 @@
+A simple web-based Student Attendance Management System built using HTML, CSS, and JavaScript. It allows users to add student names and mark attendance as Present or Absent through an interactive interface.
